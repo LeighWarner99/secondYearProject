@@ -1,0 +1,2 @@
+# secondYearProject
+A group of 3 involving the creation of an E-commerce website system. Development included creation of an account, logging in and making purchases, using a cart with visa payment option. Creation of Admin accounts to edit the websites content and C.R.U.D ability. Agile environment which included reporting to supervisor each week on the project development. Creation of database to allow for uploading of websites stock.
